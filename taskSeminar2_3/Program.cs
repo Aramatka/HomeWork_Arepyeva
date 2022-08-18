@@ -11,9 +11,9 @@ if ( Number > 7)
     }
 else
 {
-    if (Number == Next(1, 6))
+    if (Number > 0 && Number < 6)
     {
-        System.Console.WriteLine("да");
+        System.Console.WriteLine("нет");
     }
     if (Number==6 || Number == 7)
     {
