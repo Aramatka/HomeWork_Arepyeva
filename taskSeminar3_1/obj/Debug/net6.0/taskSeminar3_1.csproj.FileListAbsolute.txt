@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\bin\Debug\net6.0\taskSeminar3_1.exe
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\bin\Debug\net6.0\taskSeminar3_1.deps.json
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\bin\Debug\net6.0\taskSeminar3_1.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\bin\Debug\net6.0\taskSeminar3_1.dll
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\bin\Debug\net6.0\taskSeminar3_1.pdb
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.dll
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\refint\taskSeminar3_1.dll
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.pdb
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\taskSeminar3_1.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\topic3_lesson1\Homework\taskSeminar3_1\obj\Debug\net6.0\ref\taskSeminar3_1.dll
